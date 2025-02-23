@@ -1,0 +1,2 @@
+# COBOL REDEFINES Bug
+This example demonstrates a common error involving the REDEFINES clause in COBOL.  Improper usage can lead to data corruption and unexpected program behavior. The solution shows a safer approach.
